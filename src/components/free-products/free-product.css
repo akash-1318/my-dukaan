@@ -12,6 +12,7 @@
     line-height: 2.8rem;
     color: var(--secondry-font-color);
     margin: 8px 0px 4px 0px;
+    font-family: galano grotesque medium;
 }
 
 .product__sub-text{

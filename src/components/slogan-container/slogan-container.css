@@ -87,6 +87,7 @@ hr{
     font-size: 2rem;
     font-weight: 400;
     color: var(--secondry-font-color);
+    font-family: galano grotesque medium;
 }
 
 .btn.download__btn {
