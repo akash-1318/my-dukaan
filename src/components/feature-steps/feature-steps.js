@@ -26,7 +26,7 @@ function FeatureSteps() {
       <div className="feature__sub-container">
         <div className="last__feature">
           <img src={icon3} alt="icon" />
-          <img src={group} />
+          <img src={group} alt="icon-arrow" />
         </div>
         <p className="feature__name">Stand out</p>
         <p className="feature__text">
