@@ -4,6 +4,7 @@
     --secondry-font-color : #1A181E;
     --white-color : #FFFFFF;
     --black-color : #000;
+    --app-background : #FAFAFA;
 }
 
 *{
@@ -15,4 +16,5 @@
 html{
     font-size:62.5%;
     font-family: 'Roboto', sans-serif;
+    background-color: var(--app-background);
 }

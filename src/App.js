@@ -1,10 +1,13 @@
-import './App.css';
-import {Header} from "./components/component-exporter"
+import "./App.css";
+import { Header, SloganContainer } from "./components/component-exporter";
 
 function App() {
   return (
     <div className="App">
-      <Header/>
+      <Header />
+      <section className="main__section">
+        <SloganContainer />
+      </section>
     </div>
   );
 }
