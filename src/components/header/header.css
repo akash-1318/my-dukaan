@@ -2,6 +2,7 @@
     background-color: var(--primary-color);
     height: 32.8rem;
     padding: 2rem 16rem;
+    width: 100%;
 }
 
 .nav__container {
