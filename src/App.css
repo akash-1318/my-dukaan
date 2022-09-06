@@ -5,12 +5,7 @@
   position: relative;
 }
 
-.main__container {
+.main__section, .product__section {
   max-width: 1440px;
-}
-
-.main__section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin: 0 auto;
 }

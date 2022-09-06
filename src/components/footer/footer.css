@@ -37,12 +37,6 @@
     font-size: 1.4rem;
 }
 
-.flex {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .list__sub-container {
     display: flex;
     justify-content: space-between;

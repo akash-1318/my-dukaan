@@ -13,11 +13,15 @@ function App() {
       <div className="main__container">
         <Header />
         <div className="main__sub-container">
-          <section className="main__section">
+          <section className="main__section flex">
             <SloganContainer />
           </section>
-          <FeatureSteps />
-          <FreeProduct />
+          <section className="feature__section">
+            <FeatureSteps />
+          </section>
+          <section className="product__section">
+            <FreeProduct />
+          </section>
         </div>
         <Footer />
       </div>
