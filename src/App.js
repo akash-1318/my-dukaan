@@ -1,5 +1,5 @@
 import "./App.css";
-import { Header, SloganContainer, FeatureSteps, FreeProduct } from "./components/component-exporter";
+import { Header, SloganContainer, FeatureSteps, FreeProduct, Footer } from "./components/component-exporter";
 
 function App() {
   return (
@@ -12,6 +12,7 @@ function App() {
       <FeatureSteps/>
       <FreeProduct/>
       </div>
+      <Footer/>
     </div>
   );
 }
