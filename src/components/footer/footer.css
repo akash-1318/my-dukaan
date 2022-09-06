@@ -8,6 +8,7 @@
     padding: 6.4rem 16rem 0rem 16rem;
     background-color: var(--secondry-font-color);
     color: var(--white-color);
+    width: 100%;
 }
 
 .footer__list {
@@ -33,6 +34,7 @@
     color: var(--secondry-font-color);
     background-color: var(--white-color);
     margin-left: 4px;
+    font-size: 1.4rem;
 }
 
 .flex {
